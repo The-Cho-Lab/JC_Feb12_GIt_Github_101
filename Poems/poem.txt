@@ -13,3 +13,5 @@ Roses are red
 Violets are blue
 I fear merging
 Conflict keep coming
+Branches diverge
+Conflicts emerge
