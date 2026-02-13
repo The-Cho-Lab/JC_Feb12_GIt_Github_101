@@ -8,3 +8,8 @@ Roses are red
 Violets are blue
 I have a new branch
 ready to diverge
+
+Roses are red
+Violets are blue
+I fear merging
+Conflict keep coming
